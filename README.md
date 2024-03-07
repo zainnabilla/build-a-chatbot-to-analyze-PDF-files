@@ -4,6 +4,7 @@ Build a Chatbot to Analyze PDF Files using LLM
 ## Author : @SinaNazeri
 
 - Mentee assigment form IBM Advance AI @ Infinite Learning
+- Project Completion Course Cognitive Class IBM GPXX0WEVEN
 - Build a Chatbot to Analyze PDF Files using LLM
 - Tech stack : JavaScript, Python, HTML, CSS, Dockerfile
 ---
